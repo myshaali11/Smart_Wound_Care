@@ -129,5 +129,5 @@ Not intended for real medical diagnosis or treatment.
 
 ## 👥 Team
 Built with ❤️ by  
-**Team HEAL‑AI** (MumbaiHacks ’25)
+**Team CuraCare** (MumbaiHacks ’25)
 
