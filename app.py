@@ -597,4 +597,5 @@ if st.session_state.get('page') == 'Clinician':
             with t3:
                 st.info('Trends coming soon')
 
+
     st.markdown('</div>', unsafe_allow_html=True)
