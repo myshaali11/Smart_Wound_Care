@@ -1,0 +1,11 @@
+streamlit
+opencv-python-headless
+numpy
+Pillow
+reportlab
+openai
+fpdf
+sqlalchemy
+requests
+python-dotenv
+google-generativeai
